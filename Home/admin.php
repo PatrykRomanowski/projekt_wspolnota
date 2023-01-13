@@ -31,12 +31,12 @@ script(); ?>
    <div class="w3-content w3-theme-light" style="max-width:2000px; margin-top:46px; min-height:700pt;">
       <div class="w3-container w3-container-padding  w3-section w3-theme">
          <h1>Wspólnota Mieszkaniowa Pro-Elo  Strona Administratora</h1>
-         <input type="button" class="button" value="Lokatorzy">
+         <input type="button"  class="button" value="Lokatorzy">
          <input type="button" class="button" value="Opłaty">
          <input type="button" class="button" value="Zarządzanie danymi">
          <input type="button" class="button" value="Informacje">
          <input type="button" class="button" value="Wyloguj">
-         <input type="button" class="button" value="Input Button">
+         <input type="button" class="button" value="Input Button" onclick="https://localhost/projGitPAI/projekt_wspolnota/login.php">
 
 
 
